@@ -15,4 +15,9 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.32" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Pages\Siam\" />
+    <Folder Include="Pages\Rangsit\" />
+  </ItemGroup>
+
 </Project>
