@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-InventorySystem-737366d0-d0ad-458f-a62c-3406b23214dd")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("InventorySystem")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+beb7dae396fb39f07b016fb56f264f0dcad95083")]
 [assembly: System.Reflection.AssemblyProductAttribute("InventorySystem")]
