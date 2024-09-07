@@ -9,47 +9,55 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = InventorySystem
 build_property.RootNamespace = InventorySystem
-build_property.ProjectDir = C:\Users\ASUS TUF GAMING F15\Documents\GitHub\InventorySystem\
+build_property.ProjectDir = C:\Users\ACER\OneDrive\เอกสาร\GitHub\InventorySystem\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\ASUS TUF GAMING F15\Documents\GitHub\InventorySystem
+build_property.MSBuildProjectDirectory = C:\Users\ACER\OneDrive\เอกสาร\GitHub\InventorySystem
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/ASUS TUF GAMING F15/Documents/GitHub/InventorySystem/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/Users/ACER/OneDrive/เอกสาร/GitHub/InventorySystem/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS TUF GAMING F15/Documents/GitHub/InventorySystem/Pages/Error.cshtml]
+[C:/Users/ACER/OneDrive/เอกสาร/GitHub/InventorySystem/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS TUF GAMING F15/Documents/GitHub/InventorySystem/Pages/Index.cshtml]
+[C:/Users/ACER/OneDrive/เอกสาร/GitHub/InventorySystem/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS TUF GAMING F15/Documents/GitHub/InventorySystem/Pages/Privacy.cshtml]
+[C:/Users/ACER/OneDrive/เอกสาร/GitHub/InventorySystem/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS TUF GAMING F15/Documents/GitHub/InventorySystem/Pages/Shared/_LoginPartial.cshtml]
+[C:/Users/ACER/OneDrive/เอกสาร/GitHub/InventorySystem/Pages/Rangsit/IndexRangsit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmFuZ3NpdFxJbmRleFJhbmdzaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ACER/OneDrive/เอกสาร/GitHub/InventorySystem/Pages/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS TUF GAMING F15/Documents/GitHub/InventorySystem/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/ACER/OneDrive/เอกสาร/GitHub/InventorySystem/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS TUF GAMING F15/Documents/GitHub/InventorySystem/Pages/_ViewImports.cshtml]
+[C:/Users/ACER/OneDrive/เอกสาร/GitHub/InventorySystem/Pages/Siam/IndexSiam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2lhbVxJbmRleFNpYW0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ACER/OneDrive/เอกสาร/GitHub/InventorySystem/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS TUF GAMING F15/Documents/GitHub/InventorySystem/Pages/_ViewStart.cshtml]
+[C:/Users/ACER/OneDrive/เอกสาร/GitHub/InventorySystem/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS TUF GAMING F15/Documents/GitHub/InventorySystem/Pages/Shared/_Layout.cshtml]
+[C:/Users/ACER/OneDrive/เอกสาร/GitHub/InventorySystem/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-1lwvdvosz7
